@@ -1,7 +1,7 @@
 {
   "name": "simple-format",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "sprintf with multiple arguments",
   "license": "MIT",
   "repository": "bendrucker/simple-format",
