@@ -1,4 +1,4 @@
-# simple-format [![Build Status](https://travis-ci.org/bendrucker/simple-format.svg?branch=master)](https://travis-ci.org/bendrucker/simple-format)
+# simple-format [![Build Status](https://travis-ci.org/bendrucker/simple-format.svg?branch=master)](https://travis-ci.org/bendrucker/simple-format) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/simple-format.svg)](https://greenkeeper.io/)
 
 > Simple util.format replace that handles multiple arguments
 
